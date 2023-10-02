@@ -24,9 +24,6 @@ html,body{
     color:rgb(249, 249, 249);
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
-  #text1 {
-    margin-top: 12%;
-  }
   
   .heart{
     position:absolute;
